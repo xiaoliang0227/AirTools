@@ -1,7 +1,5 @@
 package com.demo.zyl.airtools
 
-import android.app.ProgressDialog
-import android.graphics.Bitmap
 import android.os.Bundle
 import android.support.design.widget.BottomNavigationView
 import android.support.v7.app.AppCompatActivity
@@ -10,7 +8,6 @@ import android.view.View
 import android.webkit.WebSettings
 import android.webkit.WebView
 import android.webkit.WebViewClient
-import net.lemonsoft.lemonbubble.LemonBubble
 
 class MainActivity : AppCompatActivity() {
 
@@ -40,10 +37,12 @@ class MainActivity : AppCompatActivity() {
 
     private fun  loadData(url: String) {
         needClearHistory = true
-        content?.clearCache(true)
+//        content?.clearCache(true)
         var settings: WebSettings = content!!.settings
         settings.javaScriptEnabled = true
         settings.domStorageEnabled = true
+        settings.cacheMode = WebSettings.LOAD_CACHE_ELSE_NETWORK
+
         initWebViewClient()
         initWebViewBackListener()
         content?.loadUrl(url)
@@ -68,17 +67,7 @@ class MainActivity : AppCompatActivity() {
 
             override fun shouldOverrideUrlLoading(view: WebView?, url: String?): Boolean {
                 content?.loadUrl(url)
-                return true
-            }
-
-            override fun onPageFinished(view: WebView?, url: String?) {
-                super.onPageFinished(view, url)
-                dismissLoading()
-            }
-
-            override fun onPageStarted(view: WebView?, url: String?, favicon: Bitmap?) {
-                super.onPageStarted(view, url, favicon)
-                showLoading()
+                return false
             }
 
             override fun doUpdateVisitedHistory(view: WebView?, url: String?, isReload: Boolean) {
@@ -89,17 +78,6 @@ class MainActivity : AppCompatActivity() {
                 }
             }
         })
-    }
-
-    private fun dismissLoading() {
-        LemonBubble.forceHide()
-    }
-
-    private fun showLoading() {
-        LemonBubble.getRoundProgressBubbleInfo()
-                .setBubbleHeight(100)
-                .setTitle("加载中...")
-                .show(this)
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
