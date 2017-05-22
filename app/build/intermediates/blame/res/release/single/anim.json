@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f25b0bdbcfe562745010d33d4a0d66bf/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/design_fab_in.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f25b0bdbcfe562745010d33d4a0d66bf/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f25b0bdbcfe562745010d33d4a0d66bf/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f25b0bdbcfe562745010d33d4a0d66bf/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/design_fab_out.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f25b0bdbcfe562745010d33d4a0d66bf/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f25b0bdbcfe562745010d33d4a0d66bf/res/anim/design_snackbar_out.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_launcher_round.png",
+        "source": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/app_icon.png",
+        "source": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/src/main/res/mipmap-xxhdpi/app_icon.png"
+    }
+]
