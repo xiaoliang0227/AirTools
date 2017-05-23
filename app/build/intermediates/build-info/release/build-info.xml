@@ -3,12 +3,12 @@
     build-mode="FULL"
     format="10"
     plugin-version="3.0.0-alpha1"
-    timestamp="1495443008384"
+    timestamp="1495458677988"
     verifier="NOT_RUN" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="338" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -25,7 +25,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1495443008384"
+        timestamp="1495458677988"
         verifier="NOT_RUN" >
         <artifact
             location="/Users/zhaoyongliang/workspace/Output Apks/release/app-release.apk"

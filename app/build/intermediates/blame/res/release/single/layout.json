@@ -12,20 +12,20 @@
         "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
-        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
         "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
-        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/layout/abc_search_view.xml"
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/layout/select_dialog_multichoice_material.xml"
     },
     {
         "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/layout/activity_main.xml",
         "source": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
@@ -88,16 +88,16 @@
         "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
-        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/layout/abc_dialog_title_material.xml"
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f25b0bdbcfe562745010d33d4a0d66bf/res/layout/design_bottom_navigation_item.xml"
     },
     {
         "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
         "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f25b0bdbcfe562745010d33d4a0d66bf/res/layout/design_layout_tab_text.xml"
     },
     {
-        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/layout/design_bottom_navigation_item.xml",
-        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f25b0bdbcfe562745010d33d4a0d66bf/res/layout/design_bottom_navigation_item.xml"
+        "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/layout/abc_dialog_title_material.xml"
     },
     {
         "merged": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
