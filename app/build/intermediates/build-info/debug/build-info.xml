@@ -1,31 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="API 25"
-    build-mode="COLD"
-    density="560dpi"
+    api-level="API 21"
+    build-mode="FULL"
+    density="xxhdpi"
     format="10"
-    ir-eligibility="FIELD_TYPE_CHANGE"
     plugin-version="3.0.0-alpha1"
-    timestamp="1495523977738"
+    timestamp="1495524112852"
     token="8435759268192792544"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="263" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="20" />
+        duration="108" />
     <task
         name="verifier"
-        duration="4" />
+        duration="0" />
 
     <artifact
+        location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/outputs/apk/debug/app-debug.apk"
+        type="SPLIT_MAIN" />
+    <artifact
+        location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
         location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
         location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
@@ -34,36 +48,21 @@
         location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
         location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
     <artifact
         location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
         type="SPLIT" />
     <artifact
         location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
         type="SPLIT" />
-    <artifact
-        location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/outputs/apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1495522875680"
+        timestamp="1495524112852"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
@@ -101,48 +100,6 @@
         <artifact
             location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="FIELD_TYPE_CHANGE"
-        timestamp="1495523977738"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/outputs/apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

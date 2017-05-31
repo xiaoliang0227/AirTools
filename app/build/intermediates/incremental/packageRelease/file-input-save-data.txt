@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon May 22 21:11:28 CST 2017
+#Tue May 23 15:22:52 CST 2017
 20.base=/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/release/resources-release.ap_
 143.base=/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/release/resources-release.ap_
 439.set=ANDROID_RESOURCE
