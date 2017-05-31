@@ -1,1 +1,2 @@
 *.class linguist-language=Kotlin
+*.kt linguist-language=Kotlin
