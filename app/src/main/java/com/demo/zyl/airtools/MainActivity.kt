@@ -5,6 +5,7 @@ import android.content.Intent
 import android.net.ConnectivityManager
 import android.net.NetworkInfo
 import android.net.Uri
+import android.os.Build
 import android.os.Bundle
 import android.os.Handler
 import android.support.design.widget.BottomNavigationView
@@ -67,6 +68,9 @@ class MainActivity : AppCompatActivity() {
 
             initWebViewClient()
             initWebViewBackListener()
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {
+                WebView.setWebContentsDebuggingEnabled(true)
+            }
             content?.loadUrl(url)
         }, duration)
     }

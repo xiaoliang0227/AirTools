@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/debug/values-night-v8/values-night-v8.xml",
+        "outputFile": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/values-night-v8/values-night-v8.xml",
+                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fb4edc9539af2a34c485902158de6f5b/res/values-night-v8/values-night-v8.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 204
                 },
                 "from": {
-                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/values-night-v8/values-night-v8.xml",
+                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fb4edc9539af2a34c485902158de6f5b/res/values-night-v8/values-night-v8.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 288
                 },
                 "from": {
-                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/values-night-v8/values-night-v8.xml",
+                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fb4edc9539af2a34c485902158de6f5b/res/values-night-v8/values-night-v8.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 384
                 },
                 "from": {
-                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/values-night-v8/values-night-v8.xml",
+                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fb4edc9539af2a34c485902158de6f5b/res/values-night-v8/values-night-v8.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 486
                 },
                 "from": {
-                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/values-night-v8/values-night-v8.xml",
+                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fb4edc9539af2a34c485902158de6f5b/res/values-night-v8/values-night-v8.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 588
                 },
                 "from": {
-                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/values-night-v8/values-night-v8.xml",
+                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fb4edc9539af2a34c485902158de6f5b/res/values-night-v8/values-night-v8.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 682
                 },
                 "from": {
-                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/2b58aad969d99b3a7343a2dd8d131ae6/res/values-night-v8/values-night-v8.xml",
+                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/fb4edc9539af2a34c485902158de6f5b/res/values-night-v8/values-night-v8.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,

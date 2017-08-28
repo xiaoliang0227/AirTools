@@ -1,4 +1,0 @@
-#Tue May 23 15:22:51 CST 2017
-base.0=/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/transforms/dex/release/0
-renamed.0=classes.dex
-file.0=/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/transforms/dex/release/0/classes.dex

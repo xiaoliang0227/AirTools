@@ -1,6 +1,0 @@
-COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
-FILE_PATH=/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
-FILE_HASH=e7f11ffaa49418d5f00ad42d60c0472d5c305d1c
-DX_VERSION=1.13
-JUMBO_MODE=true
-OPTIMIZE=true

@@ -1,4 +1,4 @@
-#Tue May 23 15:19:40 CST 2017
-base.0=/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/transforms/dexMerger/debug/12
+#Mon Aug 28 10:56:02 CST 2017
+base.0=/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/transforms/dexMerger/debug/16
 renamed.0=classes.dex
-file.0=/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex
+file.0=/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/transforms/dexMerger/debug/16/classes.dex

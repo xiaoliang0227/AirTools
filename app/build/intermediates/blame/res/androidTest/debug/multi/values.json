@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "outputFile": "/Users/zhaoyongliang/workspace/kotlin/AirTools/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/7e5fbe8f04366bbba7c9001faba771d2/res/values/values.xml",
+                    "file": "/Users/zhaoyongliang/.gradle/caches/transforms-1/files-1.1/rules-0.5.aar/3f4c8076f39825c3bc95f3aada7ae5fc/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
